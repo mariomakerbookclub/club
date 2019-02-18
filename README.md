@@ -30,3 +30,4 @@ could be fun.
 - [Making your first level](https://www.youtube.com/watch?v=3KXRB8OAfFU)
 - [Don't look back level analysis](https://www.youtube.com/watch?v=qT_lMi3ZRvs)
 - [Tricks & Pipes](https://www.youtube.com/watch?v=U2GXaLsOH4o)
+- Don't [be](https://waypoint.vice.com/en_us/article/59p3nq/mario-maker-player-has-spent-1500-hours-trying-to-beat-his-own-level) [this](https://waypoint.vice.com/en_us/article/paqq89/nearly-2000-hours-later-player-still-cant-beat-their-mario-maker-level) [guy](https://waypoint.vice.com/en_us/article/3kgn89/mario-maker-player-has-now-spent-2500-hours-trying-to-beat-his-own-level) (on your week ;) )
