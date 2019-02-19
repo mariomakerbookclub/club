@@ -1,7 +1,7 @@
 ## The Mario Maker 2 Book Club
 
 <p align="center">
-  <img src="https://github.com/mariomakerbookclub/club/blob/master/mario-wave.gif?raw=true">
+  <img src="https://github.com/mariomakerbookclub/club/blob/master/mm.png?raw=true">
 </p>
 
 A book club for Mario Maker. The idea is that once a week someone is arbitrarily assigned to create a Mario Maker level 
@@ -24,6 +24,10 @@ Each week [a random gene](https://art-genome-project-24zfbjh7w.now.sh/?query=%7B
 How you interpret is up to you, we're kinda making art for each other, but it'd be nice to have folks offer ideas and encouragement on how to work with the prompt. You don't need 
 to create a [Kaizo level](https://en.wikipedia.org/wiki/Kaizo_Mario_World), but maybe every now and again something hard 
 could be fun. 
+
+<p align="center">
+  <img src="https://github.com/mariomakerbookclub/club/blob/master/mario-wave.gif?raw=true">
+</p>
 
 
 ### Mario Maker Vids, Tips & Tricks
