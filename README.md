@@ -13,6 +13,9 @@ you the chance to get notifications as each week happens.
 
 All of the automation can be inspected at [`mariomakerbookclub/peril-settings`](https://github.com/mariomakerbookclub/peril-settings).
 
+### What is Mario Maker?
+
+[Mario Maker](http://supermariomaker.nintendo.com) is a nintendo game where you create your own Mario levels and play them through with buddies. There's a version for the Wii U, and 3DS but it's coming out on Switch as v2.
 
 ### Themes and Difficulty
 
