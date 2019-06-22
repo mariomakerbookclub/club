@@ -32,6 +32,7 @@ could be fun.
 
 ### Mario Maker Vids, Tips & Tricks
 
+- [How to Design a Good Super Mario Maker Level](https://www.youtube.com/watch?v=VrFrT7-19JI)
 - [Watch some Mario Maker on Twitch](https://www.twitch.tv/directory/game/Super%20Mario%20Maker)
 - [The world record for hardest level](https://www.youtube.com/watch?v=NFIEpZD3enk)
 - [Making your first level](https://www.youtube.com/watch?v=3KXRB8OAfFU)
